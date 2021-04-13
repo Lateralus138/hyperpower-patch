@@ -1,0 +1,1 @@
+/home/flux/rust/projects/cargo/linux/hyperpower_patch/target/debug/hyperpower_patch: /home/flux/rust/projects/cargo/linux/hyperpower_patch/src/main.rs /home/flux/rust/projects/cargo/linux/hyperpower_patch/src/utils/functions.rs
